@@ -10,7 +10,7 @@
 
 
     background-color: #F6F2F2;
- 
+
 
 }
 
@@ -94,11 +94,12 @@
 .text-home {
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
-    font-size: 16px;
-
+    font-size: 15px;
+    width: 560px;
     line-height: 28px;
     max-width: 544px;
     margin-bottom: 30px;
+    margin-left: 0;
 }
 
 .link-contact-us {
